@@ -1,12 +1,13 @@
 
+my_id=1
 image_speed=0;
 
-sicslevel=1
-if sicslevel<=global.sicslevelid
+
+if global.level<=my_id
 {
-	image_index=0;
+	image_index=1;
 }
 else
 {
-	image_index=1;
+	image_index=0;
 }

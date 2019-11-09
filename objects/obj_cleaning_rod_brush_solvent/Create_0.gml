@@ -1,0 +1,1 @@
+global.cleaningrod = 1;

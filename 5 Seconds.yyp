@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "57a423fe-3e4a-4d27-ada7-18d2125b0726",
+            "Value": {
+                "id": "adeeb46c-51c8-4ce4-bb5d-f952b708dedc",
+                "resourcePath": "sprites\\sprcunt\\sprcunt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e27cf08-ce84-4b69-a04a-600e4c3afbf2",
             "Value": {
                 "id": "f6c1178f-cb7e-4417-ad06-26837467c2b8",
